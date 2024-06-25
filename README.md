@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Yogesh Chaudhari</h1>
+<h1 align="center">Hi 👋, I'm a budding Full Stack Developer currently pursuing a comprehensive course in Frontend development portion. 
+
+</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogesh7107&label=Profile%20views&color=0e75b6&style=flat" alt="yogesh7107" /> </p>
