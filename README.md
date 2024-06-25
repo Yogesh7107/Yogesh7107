@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm  Yogesh 
-  budding Full Stack Developer currently pursuing a comprehensive course in Frontend development portion. 
+<h1 align="center">Hi 👋, I'm  Yogesh Chaudhari From India
+ 
 
 </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
