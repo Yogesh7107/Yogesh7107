@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yogesh Chaudhari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif"></img>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yogesh-chaudhari-3500b7187/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yogesh-chaudhari-3500b7187/" height="30" width="40" /></a>
